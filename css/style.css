@@ -1,0 +1,119 @@
+body {
+    font-family: 'roboto', sans-serif;
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+.bg-pink {
+    background-color: #eb0162 !important;
+}
+
+.text-pink {
+    color: #eb0162 !important;
+}
+
+.text-change:hover {
+    color: #eb0162 !important;
+}
+
+.community-hall {
+    background-image: url(../images/hero-banner.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.mike-sing {
+    font-size: 60px;
+    color: white;
+}
+
+.ticket-btn {
+    background-color: #EA0763;
+    border-style: none;
+}
+
+.ux-font {
+    font-size: 60px;
+    font-family: 'oswald', sans-serif;
+}
+
+.ux-fontp {
+    font-size: 22px;
+}
+
+.ux-bgcolor {
+    background-color: #f7f7f7;
+}
+
+.card {
+    border-style: none;
+    background-color: #f7f7f7;
+}
+
+.city-color {
+    color: #EA0763;
+}
+
+.city-color2 {
+    color: #797979;
+}
+
+.exp-color {
+    color: #3b1d82;
+    font-size: 20px;
+    padding-right: 60%;
+    line-height: 26px;
+}
+
+.card-title {
+    color: #3b1d82;
+    font-size: 27px;
+    margin: 0;
+    padding-top: 40px;
+}
+
+.card-text {
+    color: #797979;
+    font-size: 14px;
+    margin: 0;
+}
+
+.ummet-color {
+    color: #3b1d82;
+    font-family: 'oswald', sans-serif;
+}
+
+.ummet-text {
+    color: #797979;
+    font-size: 15px;
+}
+
+.ummet-card {
+    border-style: none;
+    background-color: white;
+}
+
+.circle-img {
+    height: 100px;
+    width: 100px;
+}
+
+.same-icon {
+    color: #3b1d82;
+    font-size: 38px;
+}
+
+.btn-learn {
+    border: 1px solid #3b1d82;
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'oswald', sans-serif;
+}
+
+.btn-learn:hover {
+    background-color: #3b1d82;
+    color: #ffffff;
+}
