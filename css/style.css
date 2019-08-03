@@ -192,3 +192,12 @@ body {
 .fab {
     color: #fff;
 }
+
+.event-speaker {
+    font-size: 36px;
+    font-family: 'oswald', sans-serif;
+}
+
+.event-title {
+    font-size: 15px;
+}
