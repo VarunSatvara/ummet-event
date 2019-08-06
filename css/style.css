@@ -232,3 +232,34 @@ body {
     color: #797979;
     font-size: 15px;
 }
+
+.r-paragraph {
+    color: #797979;
+}
+
+.announcement {
+    background-color: #3b1d82;
+}
+
+.announcement-doc {
+    background-color: #f7f7f7;
+}
+
+.r-doc-name {
+    font-size: 20px;
+    font-family: 'oswald', sans-serif;
+}
+
+.r-doc-paragraph {
+    font-size: 15px;
+}
+
+.r-paragraph {
+    font-size: 14px;
+    padding-right: 28%;
+}
+
+.r-year {
+    font-size: 20px;
+    font-family: 'oswald', sans-serif;
+}
