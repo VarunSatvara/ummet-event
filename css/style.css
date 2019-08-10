@@ -10,10 +10,6 @@ body {
     background-color: #eb0162 !important;
 }
 
-.text-pink {
-    color: #eb0162 !important;
-}
-
 .text-change:hover {
     color: #eb0162 !important;
 }
@@ -233,32 +229,30 @@ body {
     font-size: 15px;
 }
 
-.r-paragraph {
-    color: #797979;
+.card-img-first {
+    height: 80px;
+    width: 80px;
 }
 
-.announcement {
+.card-bg {
     background-color: #3b1d82;
 }
 
-.announcement-doc {
-    background-color: #f7f7f7;
-}
-
-.r-doc-name {
-    font-size: 20px;
+.u-name {
+    font-size: 22px;
     font-family: 'oswald', sans-serif;
 }
 
-.r-doc-paragraph {
+.u-desg {
     font-size: 15px;
 }
 
-.r-paragraph {
-    font-size: 14px;
+.award-time {
+    font-size: 20px;
+    color: #242424;
+    font-family: 'oswald', sans-serif;
 }
 
-.r-year {
-    font-size: 20px;
-    font-family: 'oswald', sans-serif;
+.award-paragraph {
+    font-size: 15px;
 }
