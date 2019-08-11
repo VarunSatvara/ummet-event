@@ -238,6 +238,10 @@ body {
     background-color: #3b1d82;
 }
 
+.card:hover .card-bg {
+    background-color: #ea0763;
+}
+
 .u-name {
     font-size: 22px;
     font-family: 'oswald', sans-serif;
@@ -255,4 +259,55 @@ body {
 
 .award-paragraph {
     font-size: 15px;
+}
+
+.ticket-section {
+    background-color: #f7f7f7;
+}
+
+.btn-now {
+    background-color: #ea0763;
+}
+
+.ticket-card {
+    background-color: #ffffff;
+}
+
+.ticket-card:hover {
+    background-color: #3b1d82;
+}
+
+.now-footer {
+    background-color: #ffffff;
+}
+
+.ticket-card:hover .now-footer {
+    background-color: #3b1d82;
+}
+
+.ticket-part {
+    font-size: 27px;
+}
+
+.ticket-money {
+    font-size: 60px;
+}
+
+.card-list ul li {
+    list-style: none;
+}
+
+.ticket-menu {
+    color: #797979;
+    font-size: 15px;
+}
+
+.false-position {
+    color: #ea0763;
+}
+
+.ticket-card:hover .ticket-menu,
+.ticket-card:hover .ticket-part,
+.ticket-card:hover .ticket-money {
+    color: #ffffff;
 }
