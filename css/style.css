@@ -311,3 +311,36 @@ body {
 .ticket-card:hover .ticket-money {
     color: #ffffff;
 }
+
+.sponser-bg {
+    background-image: url(../images/sponsor-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.sponsor-one {
+    height: 140px;
+    border: 5px solid white;
+    transition: all .3s ease 0s;
+    padding: 5px;
+}
+
+.sponsor-one:hover,
+.sponsor-two:hover {
+    box-shadow: 0 5px 20px 0 rgba(10, 9, 13, .15);
+}
+
+.sponsor-two {
+    height: 120px;
+    border: 5px solid white;
+    transition: all .3s ease 0s;
+}
+
+.sponsor-title {
+    font-size: 24px;
+    font-family: 'oswald', sans-serif;
+}
+
+.sponsor-image {
+    max-width: 1100px;
+}
