@@ -432,3 +432,21 @@ body {
     font-size: 15px;
     line-height: 24px;
 }
+
+.ft-icon {
+    font-size: 18px;
+    color: rgba(221, 221, 221, .5);
+}
+
+.ft-icon:hover {
+    color: #ea0763;
+}
+
+.ft-icon-1 {
+    color: #ea0763;
+}
+
+.footer-copy {
+    color: #666666;
+    font-size: 15px;
+}
