@@ -344,3 +344,91 @@ body {
 .sponsor-image {
     max-width: 1100px;
 }
+
+.bg-plan {
+    background-image: url(../images/gallery-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.plan-text {
+    font-size: 20px;
+    font-family: 'oswald', sans-serif;
+    line-height: 30px;
+}
+
+.plan-card {
+    border: 7px solid #f7f7f7;
+}
+
+.plan-body {
+    background-color: #f7f7f7;
+}
+
+.plan-card:hover {
+    border: 7px solid #3b1d82;
+}
+
+.plan-card:hover .plan-body {
+    color: #ffffff;
+    background-color: #3b1d82;
+}
+
+.plan-card ul li {
+    display: inline-block;
+}
+
+.plan-card ul li a {
+    color: #797979;
+}
+
+.plan-card:hover a {
+    color: #fff;
+}
+
+.footer-bg {
+    background-color: #111429;
+}
+
+.list-umeet ul {
+    padding: 0;
+    margin: 0;
+}
+
+.list-umeet ul li {
+    list-style: none;
+    padding: 0;
+}
+
+.list-umeet a {
+    color: #666666;
+    font-size: 15px;
+    line-height: 35px;
+    text-decoration: none;
+}
+
+.location-arrow {
+    color: #fff;
+    background-color: #ea0763;
+    border-style: none;
+}
+
+.feed ul {
+    padding: 0;
+    margin: 0;
+}
+
+.feed ul li {
+    display: inline-block;
+}
+
+.umeet-title {
+    font-size: 20px;
+    font-family: 'oswald', sans-serif;
+}
+
+.ft-paragraph {
+    color: #666666;
+    font-size: 15px;
+    line-height: 24px;
+}
