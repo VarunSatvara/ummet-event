@@ -147,9 +147,9 @@ html {
 
 .designer-card {
     position: relative;
-    overflow: hidden;
+    border: 10px solid #fff;
     z-index: 0;
-    border: 10px solid white;
+    overflow: hidden;
 }
 
 .opacity {
@@ -159,6 +159,7 @@ html {
     opacity: 0;
     justify-content: center;
     align-content: center;
+    top: 0;
     position: absolute;
     transition-property: all;
     transition-duration: 0.6s;
@@ -180,11 +181,14 @@ html {
     display: inline-block;
 }
 
-.designer-card .card-name {
-    height: 100px;
+.card-name {
+    height: 70px;
     width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
     background-color: #3b1d82;
-    transform: translateY(315px);
+    padding: 10px 0px;
     opacity: 0.9;
 }
 
