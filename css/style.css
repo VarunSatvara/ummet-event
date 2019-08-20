@@ -1,17 +1,33 @@
-body {
-    font-family: 'roboto', sans-serif;
+body,
+html {
+    font-family: 'Roboto', sans-serif;
 }
 
-.nav-link {
+.nav-head {
+    width: 100%;
+    background-color: #fff;
+}
+
+.ticket-change {
     font-size: 15px;
+    color: #3b1d82 !important;
+}
+
+.font-change {
+    font-size: 15px;
+}
+
+.ft-change {
+    font-size: 15px;
+    color: #ea0763 !important;
+}
+
+.font-change:hover {
+    color: #ea0763;
 }
 
 .bg-pink {
     background-color: #eb0162 !important;
-}
-
-.text-change:hover {
-    color: #eb0162 !important;
 }
 
 .community-hall {
@@ -53,6 +69,14 @@ body {
 }
 
 .city-color2 {
+    color: #797979;
+}
+
+.sm-color {
+    color: #EA0763;
+}
+
+.sm-color2 {
     color: #797979;
 }
 
@@ -449,4 +473,57 @@ body {
 .footer-copy {
     color: #666666;
     font-size: 15px;
+}
+
+.ticket-one {
+    color: #503388 !important;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 425px) {
+    .ux-font {
+        font-size: 28px;
+    }
+    .ux-fontp {
+        font-size: 20px;
+    }
+    .mike-sing {
+        font-size: 35px;
+    }
+    .ticket-btn {
+        font-size: 15px;
+    }
+    .exp-color {
+        font-size: 18px;
+    }
+    .city-color {
+        font-size: 18px;
+    }
+    .city-color2 {
+        font-size: 15px;
+    }
+    .card-title {
+        font-size: 23px;
+    }
+    .card-text {
+        font-size: 14px;
+    }
+    .ticket-one {
+        font-size: 13px;
+    }
+    .sm-color2 {
+        font-size: 15px;
+    }
+    .ummet-color {
+        font-size: 28px;
+    }
+    .ummet-text {
+        font-size: 15px;
+    }
+    .event-title {
+        font-size: 15px;
+    }
+    .event-speaker {
+        font-size: 28px;
+    }
 }
