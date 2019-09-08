@@ -3,6 +3,12 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+}
+
 .nav-head {
     width: 100%;
     background-color: #fff;
